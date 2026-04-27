@@ -21,8 +21,11 @@ src/
   make_mixed_dataset.py
   prepare_human_reviews.py
   run_sentiment_models.py
+EXPERIMENT_GUIDE.md
 requirements.txt
 ```
+
+For a detailed explanation of the experiment, current results, and how teammates can extend the project, read `EXPERIMENT_GUIDE.md`.
 
 ## Setup
 
